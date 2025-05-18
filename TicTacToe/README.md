@@ -83,4 +83,4 @@ This is a classic Tic Tac Toe game built with **ReactJS**, designed for two play
 
 ***
 
-# Open http://localhost:5173 in your browser to play the game.
+## Open http://localhost:5173 in your browser to play the game.
