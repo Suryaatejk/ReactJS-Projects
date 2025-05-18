@@ -45,6 +45,8 @@ An interactive **Tic Tac Toe** game built using **ReactJS**, allowing two users 
 >    - Reset the entire game (new players)  
 
 ![Tic Tac Toe Preview](./TicTacToe/Screenshots/1.png)  
+![Tic Tac Toe Preview](./TicTacToe/Screenshots/3.png)  
+
 
 ---
 
