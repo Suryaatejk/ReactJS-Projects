@@ -6,30 +6,28 @@ This repository contains a collection of front-end projects developed using **HT
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- ReactJS
-- React Hooks (`useState`)
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- ReactJS  
+- React Hooks (`useState`)  
 
 ---
 
 ## 🔢 Projects Included
+
 ### 1. Sign Up Form 📄
 
 A sleek and responsive Sign-Up form built with **ReactJS**. This project demonstrates the use of controlled components, form validation, and user-friendly UX design.
 
-> **Features:**
-- Input fields for name, email, and password
-- Password visibility toggle
-- Validation with inline error messages
-- Responsive layout using modern CSS
+> **Features:**  
+> - Input fields for name, email, and password  
+> - Password visibility toggle  
+> - Validation with inline error messages  
+> - Responsive layout using modern CSS  
 
-##SignUp Form 
-![SignUp](./SignUpForm/Sign%20Up.png)
-
-##Login Form
-![Login](./SignUpForm/Login.png)
+![Sign Up Form Preview](./SignUpForm/Sign%20Up.png)  
+![Login Form Preview](./SignUpForm/Login.png)  
 
 ---
 
@@ -37,28 +35,24 @@ A sleek and responsive Sign-Up form built with **ReactJS**. This project demonst
 
 An interactive **Tic Tac Toe** game built using **ReactJS**, allowing two users to enter their names and play alternately.
 
-> **How it works:**
-1. Players enter their names.
-2. Click **Start Game** to begin.
-3. The game board appears with X and O turns.
-4. The app announces the winner or a draw.
-5. Players can:
-   - Reset the current match (keep names)
-   - Reset the entire game (new players)
+> **How it works:**  
+> 1. Players enter their names.  
+> 2. Click **Start Game** to begin.  
+> 3. The game board appears with X and O turns.  
+> 4. The app announces the winner or a draw.  
+> 5. Players can:  
+>    - Reset the current match (keep names)  
+>    - Reset the entire game (new players)  
 
-
-![Tic Tac Toe Preview](./TicTacToe/Screenshots/1.png)
-
+![Tic Tac Toe Preview](./TicTacToe/Screenshots/1.png)  
 
 ---
 
-Stay tuned for more exciting ReactJS projects! 🌱
+## 🚀 Running Projects Locally
 
-***
-
-### For React Projects
+To run a project locally, follow these steps for each folder:
 
 ```bash
-cd "Sign Up Form"
+cd "<Project Folder Name>"
 npm install
 npm start
