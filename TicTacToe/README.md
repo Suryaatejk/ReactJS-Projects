@@ -52,19 +52,15 @@ This is a classic Tic Tac Toe game built with **ReactJS**, designed for two play
 
 ## Players Entry 
 ![Player Entry](./Screenshots/1.png)  
-*Players enter their names before starting the game.*
 
 ## Game Board
 ![Game Board](./Screenshots/2.png)  
-*The Tic Tac Toe game board in action.*
 
 ## Player Wins
 ![Wins](./Screenshots/3.png)
-*The Player wins the game.*
 
 ## It's Draw !
 ![Draw](./Screenshots/4.png)
-*It's a Draw.*
 
 
 
