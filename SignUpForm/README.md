@@ -34,5 +34,3 @@ A responsive and user-friendly Sign-Up/Login interface built using **ReactJS**. 
 
 ---
 
-## 📂 Project Structure
-
