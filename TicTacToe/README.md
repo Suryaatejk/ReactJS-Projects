@@ -73,6 +73,14 @@ This is a classic Tic Tac Toe game built with **ReactJS**, designed for two play
    ```bash
    cd TicTacToe
 
+3. Install dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm run dev
+
 ***
 
-#Open http://localhost:5173 in your browser to play the game.
+# Open http://localhost:5173 in your browser to play the game.
