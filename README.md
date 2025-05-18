@@ -27,6 +27,12 @@ A sleek and responsive Sign-Up form built with **ReactJS**. This project demonst
 
 📂 Folder: `Sign Up Form`
 
+SignUp Form 
+![SignUp](./SignUpForm/SignUp%20Form.png)
+
+Login Form
+![Login](./SignUpForm/Login.png)
+
 ---
 
 ### 2. Tic Tac Toe 🎮
