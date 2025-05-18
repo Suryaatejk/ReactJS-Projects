@@ -25,10 +25,8 @@ A sleek and responsive Sign-Up form built with **ReactJS**. This project demonst
 - Validation with inline error messages
 - Responsive layout using modern CSS
 
-📂 Folder: `Sign Up Form`
-
 SignUp Form 
-![SignUp](./SignUpForm/SignUp%20Form.png)
+![SignUp](./SignUpForm/Sign%20Up.png)
 
 Login Form
 ![Login](./SignUpForm/Login.png)
