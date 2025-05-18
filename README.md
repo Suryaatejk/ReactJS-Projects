@@ -25,10 +25,10 @@ A sleek and responsive Sign-Up form built with **ReactJS**. This project demonst
 - Validation with inline error messages
 - Responsive layout using modern CSS
 
-SignUp Form 
+##SignUp Form 
 ![SignUp](./SignUpForm/Sign%20Up.png)
 
-Login Form
+##Login Form
 ![Login](./SignUpForm/Login.png)
 
 ---
@@ -46,15 +46,9 @@ An interactive **Tic Tac Toe** game built using **ReactJS**, allowing two users 
    - Reset the current match (keep names)
    - Reset the entire game (new players)
 
-> **Key Concepts:**
-- React hooks (`useState`)
-- Conditional rendering
-- Props and component reuse
-- Simple game logic handling wins, draws, and turns
 
-📂 Folder: `TicTacToe`
+![Tic Tac Toe Preview](./TicTacToe/Screenshots/1.png)
 
-![Tic Tac Toe Preview](./TicTacToe/public/icon.png) <!-- Replace with a better image if needed -->
 
 ---
 
