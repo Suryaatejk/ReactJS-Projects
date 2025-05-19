@@ -10,8 +10,6 @@ This repository contains a collection of front-end projects developed using **HT
 - CSS3  
 - JavaScript (ES6+)  
 - ReactJS  
-- React Hooks (`useState`)  
-
 ---
 
 ## 🔢 Projects Included
